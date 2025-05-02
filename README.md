@@ -14,13 +14,21 @@ Jupyter Notebook – Interactive coding environment
 
 📁 Project Structure
 heart-weather-analysis/
+
 ├── data/
+
 │   └── (heart + temperature CSV files)
+
 ├── notebooks/
+
 │   └── heart_temp_analysis.ipynb
+
 ├── images/
+
 │   └── sample_plot.png
+
 ├── README.md
+
 └── requirements.txt
 
 📌 Key Features
